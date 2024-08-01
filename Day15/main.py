@@ -56,8 +56,7 @@ def process_money(drink):
     pennies = float(input("How many pennies?: "))
     user_money = 0.25 * quarters + 0.10 * dimes + 0.05 * nickles + 0.01 * pennies
     if user_money >= drink["cost"]:
-        if user_money > drink["cost"]:
-            print(f"Here is ${round(user_money - drink['cost'], 2)} in change.")
+        print(f"Here is ${round(user_money - drink['cost'], 2)} in change.")
         money += drink["cost"]
         return True
     else:
