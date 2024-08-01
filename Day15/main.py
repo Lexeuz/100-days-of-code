@@ -38,16 +38,19 @@ money = 0
 
 
 def add_resources():
+    """Reloads the values in the dictionary 'resources'."""
     for ingredient in resources:
         resources[ingredient] += 150
 
 
 def prepare_drink(drink):
+    """Subtract the values from the selected drink to the dictionary called 'resources'."""
     for ingredient in drink["ingredients"]:
         resources[ingredient] -= drink["ingredients"][ingredient]
 
 
 def process_money(drink):
+    """Checks if the amount of money is enough and returns True if positive or a message if negative."""
     global money
     print("Please insert coins:")
     quarters = float(input("How many quarters?: "))
@@ -64,6 +67,7 @@ def process_money(drink):
 
 
 def check_resources(drink):
+    """Checks if there's enough ingredients to prepare the selected drink."""
     for ingredient in drink["ingredients"]:
         if drink["ingredients"][ingredient] > resources[ingredient]:
             print(f"Sorry, there is not enough {ingredient}.")
@@ -72,6 +76,7 @@ def check_resources(drink):
 
 
 def report():
+    """Prints a report that includes all the resources."""
     print(
         f"These are the resources: \n- Water: {resources['water']}\n- Milk: {resources['milk']}\n- Coffee: {resources['coffee']}\n- Money: ${money}"
     )
