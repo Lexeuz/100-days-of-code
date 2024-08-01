@@ -37,6 +37,11 @@ resources = {
 money = 0
 
 
+def add_resources():
+    for ingredient in resources:
+        resources[ingredient] += 150
+
+
 def prepare_drink(drink):
     for ingredient in drink["ingredients"]:
         resources[ingredient] -= drink["ingredients"][ingredient]
@@ -86,6 +91,8 @@ def coffee_machine():
             sleep(4)
             os.system("cls")
             is_on = False
+        elif user_choice == "add":
+            add_resources()
         elif (
             user_choice == "espresso"
             or user_choice == "latte"
