@@ -1,10 +1,10 @@
-Hi! This is Alexander.
+_**Hi! This is Alexander.**_
 
 This repository has been created to document the journey of Alexander E. Adarme as he learns and masters Python.
 
 Everything is divided by days. Each day tackles a specific concept and uses the concepts learned before to successfully build a project.
 
-Index:
+**Index:**
 
 Basic concepts (Printing / Inputs / Variables / Project).
 - [Day 1](https://github.com/Lexeuz/100-days-of-code/tree/main/Day1) ->
