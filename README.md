@@ -39,7 +39,7 @@ Project (Blackjack Game).
 Global and Local variables + Project.
 - [Day 12](https://github.com/Lexeuz/100-days-of-code/tree/main/Day12)
 
-Project (Hogher and Lower Game).
+Project (Higher and Lower Game).
 - [Day 14](https://github.com/Lexeuz/100-days-of-code/tree/main/Day14)
 
 Project (Virtual Coffee Machine).
