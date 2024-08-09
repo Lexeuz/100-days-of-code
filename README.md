@@ -53,3 +53,6 @@ Project (Quiz Game with Object Oriented Programming).
 
 Turtle and his Graphical User Interface (GUI) + Project using Turtle and Colorgram.
 - [Day 18](https://github.com/Lexeuz/100-days-of-code/tree/main/Day18)
+
+Turtle Race Betting Game.
+- [Day 19](https://github.com/Lexeuz/100-days-of-code/tree/main/Day19)
