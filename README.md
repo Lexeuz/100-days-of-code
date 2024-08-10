@@ -7,7 +7,7 @@ Everything is divided by days. Each day tackles a specific concept and uses the 
 **Index:**
 
 Basic concepts (Printing / Inputs / Variables / Project).
-- [Day 1](https://github.com/Lexeuz/100-days-of-code/tree/main/Day1) ->
+- [Day 1](https://github.com/Lexeuz/100-days-of-code/tree/main/Day1)
 
 Data types and number manipulation + Project.
 - [Day 2](https://github.com/Lexeuz/100-days-of-code/tree/main/Day2)
@@ -53,3 +53,6 @@ Project (Quiz Game with Object Oriented Programming).
 
 Turtle and his Graphical User Interface (GUI) + Project using Turtle and Colorgram.
 - [Day 18](https://github.com/Lexeuz/100-days-of-code/tree/main/Day18)
+
+Turtle Race Betting Game.
+- [Day 19](https://github.com/Lexeuz/100-days-of-code/tree/main/Day19)
