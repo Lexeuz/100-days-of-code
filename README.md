@@ -56,3 +56,6 @@ Turtle and his Graphical User Interface (GUI) + Project using Turtle and Colorgr
 
 Turtle Race Betting Game.
 - [Day 19](https://github.com/Lexeuz/100-days-of-code/tree/main/Day19)
+
+Snake Game.
+- [Day 20](https://github.com/Lexeuz/100-days-of-code/tree/main/Day20)
