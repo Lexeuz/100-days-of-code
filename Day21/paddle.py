@@ -6,7 +6,6 @@ class Paddle(Turtle):
     def __init__(self, pos):
         super().__init__()
         self.create_paddle(position=pos)
-        self.paddles = []
 
     def create_paddle(self, position):
         self.shape("square")
