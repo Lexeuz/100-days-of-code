@@ -15,6 +15,7 @@ scoreboard = Scoreboard()
 game_is_on = True
 while game_is_on:
     screen.onkey(key="w", fun=player.move_forward)
-    player.check_finish()
+    if player.check_finish() == True:
+        scoreboard.update_score()
     time.sleep(0.1)
     screen.update()

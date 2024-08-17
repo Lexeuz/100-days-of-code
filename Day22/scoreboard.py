@@ -18,3 +18,4 @@ class Scoreboard(Turtle):
 
     def update_score(self):
         self.level += 1
+        self.show_scoreboard()
