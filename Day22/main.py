@@ -21,11 +21,13 @@ while game_is_on:
     car_manager.move_cars()
 
     screen.onkey(key="space", fun=player.move_forward)
+
     # Check if player crashed againts a car.
     for car in car_manager.car_list[:]:
         if player.distance(car) < 20:
             game_is_on = False
             scoreboard.game_over()
+
     # Check if player is at the finish line.
     if player.check_finish() == True:
         # Updates de score and increases the speed of the cars.
