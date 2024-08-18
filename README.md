@@ -61,7 +61,7 @@ Snake Game.
 - [Day 20](https://github.com/Lexeuz/100-days-of-code/tree/main/Day20)
 
 Pong Game.
-- [Day 20](https://github.com/Lexeuz/100-days-of-code/tree/main/Day21)
+- [Day 21](https://github.com/Lexeuz/100-days-of-code/tree/main/Day21)
 
 The Turtle Crossing Game.
-- [Day 20](https://github.com/Lexeuz/100-days-of-code/tree/main/Day22)
+- [Day 22](https://github.com/Lexeuz/100-days-of-code/tree/main/Day22)
