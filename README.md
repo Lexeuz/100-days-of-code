@@ -59,3 +59,9 @@ Turtle Race Betting Game.
 
 Snake Game.
 - [Day 20](https://github.com/Lexeuz/100-days-of-code/tree/main/Day20)
+
+Pong Game.
+- [Day 21](https://github.com/Lexeuz/100-days-of-code/tree/main/Day21)
+
+The Turtle Crossing Game.
+- [Day 22](https://github.com/Lexeuz/100-days-of-code/tree/main/Day22)
