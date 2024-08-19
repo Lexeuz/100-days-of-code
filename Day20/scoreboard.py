@@ -24,9 +24,9 @@ class Scoreboard(Turtle):
     # Files, directories and paths.
     def reset(self):
         if self.score > self.high_score:
-            with open("data.txt", mode="w") as record:
-                record.write(str(self.score))
             self.high_score = self.score
+            with open("data.txt", mode="w") as record:
+                record.write(str(self.high_score))
         self.score = 0
         self.update_scoreboard()
 
