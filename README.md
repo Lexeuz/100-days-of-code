@@ -68,3 +68,6 @@ The Turtle Crossing Game.
 
 Learning how to use relative and absolute paths + Project.
 - [Day 23](https://github.com/Lexeuz/100-days-of-code/tree/main/Day23)
+
+Working with CSV data.
+- [Day 24](https://github.com/Lexeuz/100-days-of-code/tree/main/Day24)
