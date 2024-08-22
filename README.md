@@ -65,3 +65,6 @@ Pong Game.
 
 The Turtle Crossing Game.
 - [Day 22](https://github.com/Lexeuz/100-days-of-code/tree/main/Day22)
+
+Learning how to use relative and absolute paths + Project.
+- [Day 23](https://github.com/Lexeuz/100-days-of-code/tree/main/Day23)
