@@ -1,4 +1,4 @@
-_**Hi! This is Alexander.**_
+_**Hi! This is Alexander Eraso Adarme.**_
 
 This repository has been created to document the journey of Alexander E. Adarme as he learns and masters Python.
 
