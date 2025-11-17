@@ -71,3 +71,6 @@ Learning how to use relative and absolute paths + Project.
 
 Working with CSV data.
 - [Day 24](https://github.com/Lexeuz/100-days-of-code/tree/main/Day24)
+
+Interactive Text-Based Slot Machine Game in Python.
+- [Day 26](https://github.com/Lexeuz/100-days-of-code/tree/main/Day26)
