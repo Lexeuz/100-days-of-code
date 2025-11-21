@@ -74,3 +74,6 @@ Working with CSV data.
 
 Interactive Text-Based Slot Machine Game in Python.
 - [Day 26](https://github.com/Lexeuz/100-days-of-code/tree/main/Day26)
+
+Password bank with encoding system.
+- [Day 27](https://github.com/Lexeuz/100-days-of-code/tree/main/Day27)
